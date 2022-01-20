@@ -1,3 +1,8 @@
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 # Excel Upload Lightning Web Component
 
 Extract values from an Excel sheet to record fields while uploading
